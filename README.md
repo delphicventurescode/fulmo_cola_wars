@@ -5,6 +5,8 @@
 ## 🌟 About This Repo  
 
 This repository exists to capture a **Gxoja Momento** — a moment of pure joy.  
+
+
 It commemorates a special exchange inspired by **Prof. Vijay Govindarajan’s** tribute to **Indra Nooyi** on LinkedIn, and the incredible ripple effects of **La Gxoja Projekto**.  
 
 ## 🚀 Why This Repo Exists  
