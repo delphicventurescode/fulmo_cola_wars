@@ -15,7 +15,7 @@ It commemorates a special exchange inspired by **Prof. Vijay Govindarajan’s** 
 - To document the **birth and spread** of *La Gxoja Projekto*, which began as a South Indian happiness initiative in January 2025 and is now resonating globally.  
 - To mark the surreal milestones:  
   - The launch of the **Fulmo Talk Series**, featuring **Prof. Sonja Lyubomirsky**.  
-  - The exciting response from **Mr. Errol Musk** about joining the series.  
+  - The exciting response from **Mr. Errol Musk** about joining the Talk Series.  
 
 This repo is simply a **snapshot in time** — a digital keepsake of joy, connection, and momentum.  
 
